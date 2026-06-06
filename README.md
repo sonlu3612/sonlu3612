@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Backend API projects, .NET applications and automation systems**
 
-<h3 align="left">Connect with me: **sonlu1207@gmail.com**</h3>
+<h3 align="left">Connect with me: sonlu1207@gmail.com</h3>
 <p align="left">
 </p>
 
