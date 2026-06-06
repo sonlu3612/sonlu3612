@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonlu3612&label=Profile%20views&color=0e75b6&style=flat" alt="sonlu3612" /> </p>
 
-- 🔭 I’m currently working on [TCS RegTech Platform — a carbon accounting and regulatory reporting system built with ASP.NET Core 8](https://tcs-ghg.vn/)
+- 🔭 I’m currently working on [TCS RegTech Platform - a carbon accounting and regulatory reporting system built with ASP.NET Core 8](https://tcs-ghg.vn/)
 
 - 🌱 I’m currently learning **System Design, Scalability, Distributed Architecture and Next.js**
 
