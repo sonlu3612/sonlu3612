@@ -9,8 +9,26 @@
 
 - 👯 I’m looking to collaborate on **Backend API projects, .NET applications and automation systems**
 
-<h3 align="left">Connect with me: sonlu1207@gmail.com</h3>
+- 📫 Reach me at sonlu1207@gmail.com
+
+<h2 align="left">Featured Project</h2>
+<h3 align="left">TCS RegTech Platform</h3>
 <p align="left">
+  A carbon accounting and regulatory reporting platform designed to help businesses manage greenhouse gas data,
+  automate emission reporting workflows, and monitor Scope 1, Scope 2, and Scope 3 activities.
+</p>
+<h4 align="left">Key Features</h4>
+<ul>
+  <li>Managed company, building, vehicle, equipment, and emission activity data</li>
+  <li>Supported invoice upload and processing for carbon accounting workflows</li>
+  <li>Built approval workflows for reviewing and validating submitted data</li>
+  <li>Provided dashboard analytics for tracking emission data and operational indicators</li>
+  <li>Supported report export for regulatory and internal reporting needs</li>
+  <li>Added realtime workflow updates to improve user interaction and data visibility</li>
+</ul>
+<p align="left">
+  🔗 <strong>Website:</strong>
+  <a href="https://tcs-ghg.vn/" target="_blank">https://tcs-ghg.vn/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
